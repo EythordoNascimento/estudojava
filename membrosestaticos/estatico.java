@@ -17,9 +17,9 @@ public class estatico {
         System.out.println("Enter radius: ");
         double radius = sc.nextDouble();
 
-        double c = calc.circumference(radius);
+        double c = Calculator.circumference(radius);
 
-        double v = calc.volume(radius);
+        double v = Calculator.volume(radius);
 
         System.out.printf("Circumference: ");
         System.out.printf("Volume: %.2f%n", v);
