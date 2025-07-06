@@ -25,7 +25,7 @@ public class vetor {
 
         double avg = sum / n;
 
-        System.out.prinf("Average height: %.2f%n", avg);
+        System.out.printf("Average height: %.2f%n", avg);
 
         
 
