@@ -1,3 +1,6 @@
+// Um programa que leia um número inteiro positivo N (Máximo = 10) e depois N números inteiros e armazene os em um vetor. Em seguida, mostrar na tela todos os números negativo lidos
+
+
 package negativos;
 import java.util.Locale;
 import java.util.Scanner;
