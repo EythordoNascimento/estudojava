@@ -1,4 +1,4 @@
-package entities.enums;
+package enumeracoes;
 
 public enum OrderStatus {
     PENDING_PAYMENT,
