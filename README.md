@@ -9,7 +9,7 @@ Este repositório foi criado para organizar meus estudos e práticas com a lingu
 - Programação orientada a objetos
 - Coleções e arrays
 - Tratamento de exceções
-- Projetos práticos
+- Projetos práticos.
 
 ## 🛠️ Ferramentas
 
