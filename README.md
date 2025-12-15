@@ -1,6 +1,6 @@
 # Estudos em Java ☕
 
-Este repositório foi criado para organizar meus estudos e práticas com a linguagem **Java**. Inclui exercícios, anotações e pequenos projetos que venho desenvolvendo ao longo do aprendizado.
+Este repositório foi criado para organizar meus estudos e práticas com a linguagem **Java**. Inclui exercícios, anotações e pequenos projetos que venho desenvolvendo ao longo do aprendizado
 
 ## 📚 Tópicos abordados
 
